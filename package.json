@@ -1,0 +1,16 @@
+{
+  "name": "rowiebuttons",
+  "version": "1.0.0",
+  "description": "rowie",
+  "main": "rowie.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Rowie",
+  "license": "ROWİE",
+  "dependencies": {
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3"
+  }
+}
